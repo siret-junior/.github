@@ -31,7 +31,7 @@ Thorough written user and developer documentation for the SOMHunter project as a
 For SOMHunter to work you also need some extracted metadata from the dataset you want to search in.
 
 - #### [`extraction-pipeline`](https://github.com/siret-junior/extraction-pipeline)
-There are two variations of the pipeline (for W2VV++ model with subregions & for CLIP model) authored by [Tomas Soucek](https://github.com/soCzech). This is mainly his work. With his permission, we modified the pipeline to extract also subregions of frames.
+There are two variations of the pipeline (for W2VV++ model with subregions & for CLIP model) authored by [Tomas Soucek](https://github.com/soCzech). This is mainly his work. With his permission, we modified the pipeline to extract also subregions of frames. This is still private repository. If you'd like to use it contact us.
 
 ### **SOMHunter Collector & Simulator**
 These tools were used for relevance feedback study.
