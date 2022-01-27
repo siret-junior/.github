@@ -10,7 +10,7 @@ This is the main software work. SOMHunter as a whole consists of multiple parts.
 - #### [`somhunter`](https://github.com/siret-junior/somhunter)
 The root project of the SOMHunter tool. If you wish to use the tool as a whole and not just some parts of it, this is where you start. By following the instructions in this repository you'll get yourself SOMHunter running in no time.
 
-- #### [`somhunter-core`](https://github.com/siret-junior/somhunter)
+- #### [`somhunter-core`](https://github.com/siret-junior/somhunter-core)
 The core of the tool. All the models and logic is implemented there. Basically, all other parts of the tool (UI, data/ranking server, ...) are somewhat optional. You can use your own implementation and substitute them. All these parts are separated using HTTP API and the core complies with the OpenAPI standard so it should be relatively easy to write yout own UI for example.
 
 - #### [`somhunter-ui`](https://github.com/siret-junior/somhunter-ui)
